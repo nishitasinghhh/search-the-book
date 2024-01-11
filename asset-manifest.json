@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/search-the-book/static/css/main.1c7a4776.css",
+    "main.js": "/search-the-book/static/js/main.ead03997.js",
+    "static/js/787.dcf712b4.chunk.js": "/search-the-book/static/js/787.dcf712b4.chunk.js",
+    "static/media/bg22.avif": "/search-the-book/static/media/bg22.5944b48da72b6598d439.avif",
+    "static/media/bg2.png": "/search-the-book/static/media/bg2.fa44efe5b0a3e7f43340.png",
+    "static/media/book.jpg": "/search-the-book/static/media/book.a2e9f9b8cb7ae460a99e.jpg",
+    "static/media/logo.svg": "/search-the-book/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/search-the-book/index.html",
+    "main.1c7a4776.css.map": "/search-the-book/static/css/main.1c7a4776.css.map",
+    "main.ead03997.js.map": "/search-the-book/static/js/main.ead03997.js.map",
+    "787.dcf712b4.chunk.js.map": "/search-the-book/static/js/787.dcf712b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c7a4776.css",
+    "static/js/main.ead03997.js"
+  ]
+}
